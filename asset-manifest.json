@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nameit-app/static/css/main.55777dea.chunk.css",
+    "main.css": "/nameit-app/static/css/main.db4edeb9.chunk.css",
     "main.js": "/nameit-app/static/js/main.31c2e3a7.chunk.js",
     "main.js.map": "/nameit-app/static/js/main.31c2e3a7.chunk.js.map",
     "runtime-main.js": "/nameit-app/static/js/runtime-main.2425451e.js",
@@ -8,13 +8,13 @@
     "static/js/2.34b87737.chunk.js": "/nameit-app/static/js/2.34b87737.chunk.js",
     "static/js/2.34b87737.chunk.js.map": "/nameit-app/static/js/2.34b87737.chunk.js.map",
     "index.html": "/nameit-app/index.html",
-    "static/css/main.55777dea.chunk.css.map": "/nameit-app/static/css/main.55777dea.chunk.css.map",
+    "static/css/main.db4edeb9.chunk.css.map": "/nameit-app/static/css/main.db4edeb9.chunk.css.map",
     "static/js/2.34b87737.chunk.js.LICENSE.txt": "/nameit-app/static/js/2.34b87737.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2425451e.js",
     "static/js/2.34b87737.chunk.js",
-    "static/css/main.55777dea.chunk.css",
+    "static/css/main.db4edeb9.chunk.css",
     "static/js/main.31c2e3a7.chunk.js"
   ]
 }
