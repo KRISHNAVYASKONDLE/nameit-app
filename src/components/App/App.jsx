@@ -7,7 +7,7 @@ import './App.css';
 const name = require('@rstacruz/startup-name-generator');
 class App extends React.Component {
     state = {
-        headerText: 'Search New Domains!',
+        headerText: 'Search Domains!',
         headerExpanded: true,
         suggestedNames: [],
     };
