@@ -5,7 +5,12 @@ const namecheapUrl =
 
 const NameCard = ({ suggestedName }) => {
     return (
-        <a className="card-link" href={`${namecheapUrl}${suggestedName}`}>
+        <a
+            target="blank"
+            rel="noreferrers"
+            className="card-link"
+            href={`${namecheapUrl}${suggestedName}`}
+        >
             <div className="result-name-card">
                 <p className="result-name">{suggestedName}</p>
             </div>

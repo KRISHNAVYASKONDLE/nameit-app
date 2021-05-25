@@ -3,7 +3,7 @@
     background: #282d4f;
     padding: 10px 15px;
     margin: 20px 30px;
-    min-width: 75px;
+    width: 130px;
     border-radius: 10px;
     box-shadow: 0px 0px 5px rgba(255, 255, 255, 0.1);
     transition: background 0.35s;
@@ -21,6 +21,7 @@
 }
 
 .result-name {
+    font-size: 20px;
     margin: 5px;
     font-weight: 100;
 }
